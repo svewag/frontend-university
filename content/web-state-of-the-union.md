@@ -1,7 +1,7 @@
 ---
 title: "Web State of the Union"
 date: 2018-07-17T22:43:02+02:00
-draft: true
+draft: false
 ---
 
 # The web: state of the union
