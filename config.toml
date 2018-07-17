@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://frontend-university.netlify.com/"
 languageCode = "de-de"
 title = "Frontend University"
 theme = "hugo-paper"
